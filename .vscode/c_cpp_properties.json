@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robot/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/robot/catkin_ws/src/grasp_icp/include/**",
+        "/home/robot/catkin_ws/src/roboticsgroup_gazebo_plugins/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_2f_gripper_action_server/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_2f_gripper_control/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_3f_gripper_articulated_gazebo_plugins/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_3f_gripper_control/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_ethercat/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/robotiq/robotiq_ft_sensor/include/**",
+        "/home/robot/catkin_ws/src/universal_robot_kinect/ur10e_moveit_ikfast_plugin/include/**",
+        "/home/robot/catkin_ws/src/universal_robot_kinect/ur5_moveit_ikfast_plugin/include/**",
+        "/home/robot/catkin_ws/src/grsim_allin/universal_robot_kinect/ur_kinematics/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
